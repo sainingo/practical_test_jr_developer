@@ -1,9 +1,16 @@
 # This repo contains the code for task management crud functionalities
 
-### CREATE
-### READ 
-### UPDATE
-### DELETE
+#### CREATE
+ -- /api/task
+
+#### READ 
+ -- /api/task
+
+#### UPDATE
+ -- /api/task/:id
+
+#### DELETE
+ -- /api/task/:id
 
 ### I have used the following technologies
 
