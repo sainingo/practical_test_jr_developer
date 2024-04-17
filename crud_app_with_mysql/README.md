@@ -1,2 +1,10 @@
-## Basic crud application that 
--- creates, read, updates and delete a user
+## Basic crud for creating user 
+
+--- This repo host the crud functionalities creating simple user details
+
+### Technologies used
+
+#### API
+- Nodejs
+- Mysql
+- Express
